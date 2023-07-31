@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.badisraissi.com](www.badisraissi.com)
 
-- 📫 How to reach me **badis.raissi@esprit.tn**
+- 📫 How to reach me **badisraissi98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
