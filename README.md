@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badis</h1>
 <h3 align="center">A passionate software engineer and full stack developer from Tunisia</h3>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [www.badisraissi.com](www.badisraissi.com)
-
-- 📫 How to reach me **badisraissi98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
